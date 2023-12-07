@@ -113,11 +113,12 @@ body{
     gap: 10px;
     justify-content: center;
 }
-.wrapper-card.row1{
-    margin-top: 20px;
+.wrapper-card.row1, .row3{
+    margin-top: 30px;
 }
-.wrapper-card.row2{
+.wrapper-card.row2, .row4{
     margin-top: 12px;
+    margin-bottom: 80px;
 }
 .travel-card{
     width: 400px;
