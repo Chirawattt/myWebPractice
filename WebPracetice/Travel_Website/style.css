@@ -113,10 +113,17 @@ body{
     gap: 10px;
     justify-content: center;
 }
-.wrapper-card.row1, .row3{
+.wrapper-card.first-row{
     margin-top: 30px;
 }
-.wrapper-card.row2, .row4{
+.wrapper-card.first-last-row {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.wrapper-card.mid-row{
+    margin-top: 12px;
+}
+.wrapper-card.last-row{
     margin-top: 12px;
     margin-bottom: 80px;
 }
